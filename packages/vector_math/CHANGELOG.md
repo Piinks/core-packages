@@ -1,6 +1,6 @@
 ## 2.4.4
 
-* Replaces dynamic multiplication in `TransformFilter.filterInplace` with `Matrix4.transformed3` to fix an analyzer error on newer Dart SDKs.
+* Replaces dynamic multiplication in `TransformFilter.filterInplace` with `Matrix4.transform3` to fix an analyzer error on newer Dart SDKs.
 
 ## 2.4.3
 
